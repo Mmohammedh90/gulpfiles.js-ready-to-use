@@ -1,0 +1,11 @@
+@mixin mix1 {
+    color: $var_test1;
+}
+
+@mixin mix2 {
+    font-size: $var_test2;
+}
+
+@mixin mix3 {
+    text-transform: $var_test3;
+}

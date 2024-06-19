@@ -1,0 +1,10 @@
+@import './variables/variables';
+@import './mixins/mixins';
+
+
+.test_paragraph {
+    @include mix1;
+    @include mix2;
+    @include mix3;
+    padding: 10px 0;
+}
