@@ -4,4 +4,4 @@ Use this project to start a (Ready to use project) With the following steps:
 
 2- Extract it
 
-3- Inside extracted folder use 'gulp' command
+3- Inside extracted folder use 'gulp' command in terminal
