@@ -1,4 +1,4 @@
-Use this project to start a (Ready to use project) With the following steps:
+To start a (Ready to use project) using GulpJS Follow These steps:
 
 1- Donwload the zipped folder of project on your pc.
 
